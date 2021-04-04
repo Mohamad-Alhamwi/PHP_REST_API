@@ -12,9 +12,11 @@ Import the students.sql file, change the params in the config/Database.php file 
 >>
 >>Görev içeriğine ulaşmak için:
 >>
->>**1.Adım:** git üzerinden *ls * | LC_COLLATE=C sort* komutu yazarak tüm dosyaları büyük harflere göre sıraladım.   
+>>**1.Adım:** git üzerinden `ls * | LC_COLLATE=C sort` komutu yazarak tüm dosyaları büyük harflere göre sıraladım.   
+>>
 >>**2.Adım:** Belirli pattern'leri yakalamaya çalışmıştım. Mesela tüm '==' ile biten dosyaları farklı bir klasörde sakladım. Sonra, '=' ile biten dosyaları farklı bir klasörde sakladım vs.
->>**3.Adım:** Dosyaları belirli bir pattern'e göre ayırıp farklı klasörlerde sakladıktan sonra, sırayla her bir klasördeki dosyaların binari içeriğini *for i in `ls * | LC_COLLATE=C sort`; do cat $i ; echo " "; done;* kodu kullanarak toplayıp tek bir dosyada saklayıp [bu siteyi]  ('https://www.rapidtables.com/convert/number/binary-to-ascii.html) kullanarak text'e çevirdim.
+>>
+>>**3.Adım:** Dosyaları belirli bir pattern'e göre ayırıp farklı klasörlerde sakladıktan sonra, sırayla her bir klasördeki dosyaların binari içeriğini `for i in `ls * | LC_COLLATE=C sort`; do cat $i ; echo " "; done;` kodu kullanarak toplayıp tek bir dosyada saklayıp [bu siteyi]  ('https://www.rapidtables.com/convert/number/binary-to-ascii.html) kullanarak text'e çevirdim.
 
 ### License
 
