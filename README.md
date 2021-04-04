@@ -6,8 +6,7 @@
 
 Import the students.sql file, change the params in the config/Database.php file to your own.
 
->The following section is required for the task I have been assigned to, but not related with the API.
->>
+The following section is required for the task I have been assigned to, but not related with the API.
 >>Bana Özel Anahtar Kodu:
 >>gAAAAABgUIH1heT9ClhLKK0fWJeEokQ2Tn2A5kvcpU_ejm9PUR_pmaoU1mcPPctIUwyzJoDQ81xPNDSGUbEwgcTNNz1g1ve_j5NYvvkRPZNabaNg4sx3eq0b9CfhOiS8C3nhrVQ8SQEpFbBM3hOguVWwQzlw5hKDUIsb37nuj5y00wa8flkEHb_F3gNgik8G-aewUo7PS7v_wFq_6FtoLoRNe7FA-69OyQ==
 >>
